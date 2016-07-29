@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "52232581861",
+    "project_id": "nearby-1362"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52232581861:android:92cc488bd9a211f6",
+        "android_client_info": {
+          "package_name": "com.example.utkarsh.nearby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52232581861-t20ptrhs527urgmnbs8irrlrve9dn7la.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.utkarsh.nearby",
+            "certificate_hash": "798B23D528CD86A607AB0D90314BC984BF499B7D"
+          }
+        },
+        {
+          "client_id": "52232581861-7b5a4ok1oa131qkg48nlqsbd58fhgjl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmllW6e5KrcrHTruTyQgn2ZZyYVHYqcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
